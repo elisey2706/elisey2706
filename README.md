@@ -17,7 +17,7 @@
 - UML Class/Object Diagram
 - UML Activity
 - State Machine
-- BPMN (AS IS, TO BE)
+- BPMN (AS-IS, TO-BE)
 - DFD (Гейн‑Сарсон)
 - Проектирование UI/UX
 - Персоны, сценарии
